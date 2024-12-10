@@ -1,4 +1,4 @@
-echo "# 💬 Viber Chat Application
+💬 Viber Chat Application
 
 A **real-time chat application** designed for seamless communication, enabling users to join chat rooms, send messages, and interact in real time. Built with **React**, **Node.js**, and **Socket.IO**, it features a clean and responsive interface powered by **Material-UI**.
 
@@ -26,4 +26,3 @@ A **real-time chat application** designed for seamless communication, enabling u
 - **Socket.IO**: WebSockets for real-time, bidirectional communication.
 
 ---
-" > README.md
